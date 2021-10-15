@@ -6,6 +6,9 @@
     "start": "node .output/server"
   },
   "devDependencies": {
+    "@headlessui/vue": "^1.4.1",
+    "@heroicons/vue": "^1.0.4",
+    "nuxt-windicss": "^2.0.0",
     "nuxt3": "latest"
   }
 }
